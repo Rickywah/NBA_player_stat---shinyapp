@@ -1,0 +1,31 @@
+## Author
+
+- **Name:** Zhisheng Hua
+- **Email:** zhua7@illinois.edu
+
+## Purpose
+
+The purpose of this shiny app project is to provide a platform for NBA fans and enthusiasts to explore and analyze the statistical performance of NBA players during the 2021-2022 regular season. By creating interactive visualizations through render charts, the app allows users to gain insights into individual player statistics such as points per game, rebounds per game, assists per game, and other important metrics that help to measure player performance and team success. This project aims to provide a useful tool for fans, coaches, analysts, and other stakeholders in the basketball community to understand the key factors contributing to player success and ultimately team success in the NBA.
+
+## Data
+
+The dataset for your project contains statistical data for NBA players during the 2021-2022 regular season. Each row of the dataset represents an individual player's performance in a game, with the following columns of data:
+
+Team: the name of the team the player playing for.
+Pos: the player's position on the team (e.g., point guard, shooting guard, center).
+Player: the name of the player.
+G: the number of games the player has played in.
+PTS: the average number of points the player scores per game.
+TRB: the average number of rebounds the player collects per game.
+AST: the average number of assists the player makes per game.
+STL: the average number of steals the player makes per game.
+BLK: the average number of blocks the player makes per game.
+MFT: the average number of missed field goals the player has per game.
+MFT: the average number of missed free throws the player has per game.
+TOV: the average number of turnovers the player makes per game.
+
+It's worth noting that there may be duplicate player names in the dataset due to team changes during the season. Overall, the dataset provides a comprehensive view of each player's performance and can be used to gain insights into their strengths and weaknesses, as well as team dynamics and overall performance.
+
+## References
+
+- [2021-2022 NBA Player Stats](https://www.kaggle.com/datasets/vivovinco/nba-player-stats)
